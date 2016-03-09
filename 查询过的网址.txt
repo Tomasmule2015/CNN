@@ -1,0 +1,52 @@
+http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=430538827
+
+
+bp    http://blog.csdn.net/acdreamers/article/details/44657439
+
+
+ftp://172.16.21.199 
+opencv http://petersky0316.blog.163.com/blog/static/177063371201311714849746/
+
+
+mat   http://blog.csdn.net/giantchen547792075/article/details/7169255
+
+mat attribute  http://www.cnblogs.com/wangguchangqing/p/4016179.html
+    
+Armadillo    http://arma.sourceforge.net/faq.html
+
+02084723007
+
+CNN  http://www.geekcome.com/content-10-3761-1.html
+
+
+基本部署php,mysql,nginx,memcache,aliyun，等等。
+
+aliyun   	http://market.aliyun.com/product/tools_download.htm?productId=cmgj000263
+
+
+theano  http://www.cnblogs.com/xueliangliu/archive/2013/04/03/2997437.html
+
+relu    http://tieba.baidu.com/p/3061925556 
+
+lenet-5
+
+RBF  http://www.cnblogs.com/zhangchaoyang/articles/2591663.html
+
+
+ZHOUBAO pro.ss.sysu.edu.cn/training/enterprise/
+
+CNN  http://www.cnblogs.com/tornadomeet/p/3468450.html
+
+http://www.douban.com/note/361230278/?type=like   python—解决“Unable to find vcvarsall.bat”错误
+
+http://my.oschina.net/locusxt/blog/396048 文本分析步骤
+
+http://www.2cto.com/kf/201212/180513.html python数组操作
+
+http://www.jb51.net/article/45956.htm    python 按行读取文件
+
+https://tower.im/join?t=2478f688bfe0c88f21cb89aa0fc295a9 
+
+http://www.linuxzen.com/python-you-ya-de-cao-zuo-zi-dian.html python字典
+
+ 
